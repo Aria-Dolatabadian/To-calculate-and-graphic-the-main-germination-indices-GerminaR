@@ -1,0 +1,10 @@
+grs: Germinated Seed Number
+grp:Germination Seed Percentage
+mgt:Mean Germination Time
+mgr:Mean Germination Rate
+gsp:Germination Speed
+unc:Germination Uncertainty
+syn: Germination Synchronization Index
+vgt:Variance of the Mean Germination Time
+sdg:Standard deviation of the Mean Germination Time
+cvg:Coefficient of Variance of the Mean Germination Time
